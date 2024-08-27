@@ -1,0 +1,21 @@
+{
+    "configuracoesEmail": {
+        "Host": "imap.gmail.com",
+        "Port": 993,
+        "Username": "SeuEmail@dominio.com",
+        "Password": "SenhaDoApp",
+        "Folder": "INBOX"
+    },
+    "ConfiguracoesDownload": {
+        "PastaRaiz": "C:\\Users\\voce\\Documents\\Pasta Raiz",
+        "PastaArquivosTemporarios": "XMLs Temporarios",
+        "PastaInvalida": "XMLs Invalidos"
+    },
+    "ConfiguracoesWorker": {
+        "Intervalo": 3,
+        "UnidadeDeTempo": "Minutos"
+    },
+    "FiltrosPesquisa": {
+        "AssuntoContem": ["NF", "XML"]
+    }
+}

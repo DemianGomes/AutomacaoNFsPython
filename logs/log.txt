@@ -1,0 +1,192 @@
+2024-08-27 11:39:31,041 - Main - INFO - Starting the application
+2024-08-27 11:39:31,042 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:39:31,042 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:39:31,043 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:39:31,045 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:39:33,153 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:39:33,153 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:39:33,507 - EmailDownloaderService - INFO - Found 3 unseen emails
+2024-08-27 11:39:33,507 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'2'
+2024-08-27 11:39:34,305 - EmailDownloaderService - INFO - Downloaded 123.xml to XMLs Temporarios\123.xml
+2024-08-27 11:39:34,305 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'4'
+2024-08-27 11:39:34,971 - EmailDownloaderService - INFO - Downloaded 456.xml to XMLs Temporarios\456.xml
+2024-08-27 11:39:34,971 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'5'
+2024-08-27 11:39:35,647 - EmailDownloaderService - INFO - Downloaded XML.xml to XMLs Temporarios\XML.xml
+2024-08-27 11:39:35,647 - EmailDownloaderService - INFO - Sleeping for 3 hours
+2024-08-27 11:43:41,872 - Main - INFO - Starting the application
+2024-08-27 11:43:41,873 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:43:41,874 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:43:41,875 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:43:41,876 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:43:43,939 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:43:43,939 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:43:44,268 - EmailDownloaderService - INFO - Found 0 unseen emails
+2024-08-27 11:43:44,268 - EmailDownloaderService - INFO - Sleeping for 3 hours
+2024-08-27 11:44:01,984 - Main - INFO - Starting the application
+2024-08-27 11:44:01,985 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:44:01,985 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:44:01,988 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:44:01,988 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:44:03,347 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:44:03,347 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:44:03,660 - EmailDownloaderService - INFO - Found 3 unseen emails
+2024-08-27 11:44:03,661 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'2'
+2024-08-27 11:45:51,893 - Main - INFO - Starting the application
+2024-08-27 11:45:51,894 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:45:51,894 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:45:51,896 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:45:51,896 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:45:53,952 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:45:53,952 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:45:54,298 - EmailDownloaderService - INFO - Found 2 unseen emails
+2024-08-27 11:45:54,298 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'4'
+2024-08-27 11:46:08,023 - Main - INFO - Starting the application
+2024-08-27 11:46:08,031 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:46:08,031 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:46:08,033 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:46:08,033 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:46:10,114 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:46:10,114 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:46:10,465 - EmailDownloaderService - INFO - Found 1 unseen emails
+2024-08-27 11:46:10,465 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'5'
+2024-08-27 11:47:25,851 - Main - INFO - Starting the application
+2024-08-27 11:47:25,851 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:47:25,852 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:47:25,853 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:47:25,853 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:47:27,769 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:47:27,769 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:47:28,088 - EmailDownloaderService - INFO - Found 3 unseen emails
+2024-08-27 11:47:28,089 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'2'
+2024-08-27 11:48:23,130 - Main - INFO - Starting the application
+2024-08-27 11:48:23,130 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:48:23,131 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:48:23,132 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:48:23,132 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:48:24,480 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:48:24,480 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:48:24,800 - EmailDownloaderService - INFO - Found 2 unseen emails
+2024-08-27 11:48:24,800 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'4'
+2024-08-27 11:48:25,452 - EmailDownloaderService - INFO - Downloaded 456.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\456.xml
+2024-08-27 11:48:25,455 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'5'
+2024-08-27 11:48:26,058 - EmailDownloaderService - INFO - Downloaded XML.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\XML.xml
+2024-08-27 11:48:26,058 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 11:50:38,068 - Main - INFO - Starting the application
+2024-08-27 11:50:38,069 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:50:38,069 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:50:38,070 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:50:38,070 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:50:39,607 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:50:39,608 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:50:39,976 - EmailDownloaderService - INFO - Found 0 unseen emails
+2024-08-27 11:50:39,977 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 11:50:51,589 - Main - INFO - Starting the application
+2024-08-27 11:50:51,591 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 11:50:51,591 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 11:50:51,593 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 11:50:51,593 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:50:53,680 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:50:53,682 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:50:54,031 - EmailDownloaderService - INFO - Found 3 unseen emails
+2024-08-27 11:50:54,033 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'2'
+2024-08-27 11:50:54,714 - EmailDownloaderService - INFO - Downloaded 123.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\123.xml
+2024-08-27 11:50:54,733 - EmailDownloaderService - INFO - Moved 123.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\123\123.xml
+2024-08-27 11:50:54,734 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'4'
+2024-08-27 11:50:55,366 - EmailDownloaderService - INFO - Downloaded 456.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\456.xml
+2024-08-27 11:50:55,378 - EmailDownloaderService - INFO - Moved 456.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\456\456.xml
+2024-08-27 11:50:55,379 - EmailDownloaderService - INFO - Downloading attachments for email ID: b'5'
+2024-08-27 11:50:56,031 - EmailDownloaderService - INFO - Downloaded XML.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\XML.xml
+2024-08-27 11:50:56,034 - EmailDownloaderService - INFO - Moved XML.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\03654119000176\XML.xml
+2024-08-27 11:50:56,035 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 11:53:56,036 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:53:58,074 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:53:58,075 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:53:58,412 - EmailDownloaderService - INFO - Found 0 unseen emails
+2024-08-27 11:53:58,413 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 11:56:58,414 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 11:56:59,818 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 11:56:59,818 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 11:57:00,181 - EmailDownloaderService - INFO - Found 0 unseen emails
+2024-08-27 11:57:00,182 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 11:57:18,743 - Main - INFO - Starting the application
+2024-08-27 11:57:18,744 - EmailDownloaderService - INFO - Iniciando Automação de NFs XML por Email
+2024-08-27 11:57:18,745 - EmailDownloaderService - INFO - Configurando pastas de download
+2024-08-27 11:57:18,747 - EmailDownloaderService - INFO - Iniciando serviço de download de emails
+2024-08-27 11:57:18,747 - EmailDownloaderService - INFO - Conectando-se ao servidor de email
+2024-08-27 11:57:20,765 - EmailDownloaderService - INFO - Processando emails
+2024-08-27 11:57:20,765 - EmailDownloaderService - INFO - Procurando por emails não lidos
+2024-08-27 11:57:21,108 - EmailDownloaderService - INFO - Encontrados 1 emails não lidos
+2024-08-27 11:57:21,109 - EmailDownloaderService - INFO - Baixando anexos para o email de id: OK
+2024-08-27 11:59:34,804 - Main - INFO - Starting the application
+2024-08-27 11:59:34,805 - EmailDownloaderService - INFO - Iniciando Automação de NFs XML por Email
+2024-08-27 11:59:34,805 - EmailDownloaderService - INFO - Configurando pastas de download
+2024-08-27 11:59:34,806 - EmailDownloaderService - INFO - Iniciando serviço de download de emails
+2024-08-27 11:59:34,807 - EmailDownloaderService - INFO - Conectando-se ao servidor de email
+2024-08-27 11:59:36,778 - EmailDownloaderService - INFO - Processando emails
+2024-08-27 11:59:36,778 - EmailDownloaderService - INFO - Procurando por emails não lidos
+2024-08-27 11:59:37,105 - EmailDownloaderService - INFO - Encontrados 1 emails não lidos
+2024-08-27 11:59:37,105 - EmailDownloaderService - INFO - Baixando anexos para o email de id: OK
+2024-08-27 11:59:37,422 - EmailDownloaderService - ERROR - Erro ao baixar os anexos para o email de id: OK - FETCH command error: BAD [b'Could not parse command']
+2024-08-27 11:59:37,423 - EmailDownloaderService - INFO - Esperando por 3 horas
+2024-08-27 12:01:20,925 - Main - INFO - Starting the application
+2024-08-27 12:01:20,926 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 12:01:20,926 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 12:01:20,927 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 12:01:20,927 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 12:01:22,988 - EmailDownloaderService - INFO - Processing emails
+2024-08-27 12:01:22,989 - EmailDownloaderService - INFO - Searching for unseen emails
+2024-08-27 12:01:23,336 - EmailDownloaderService - INFO - Found 1 unseen emails
+2024-08-27 12:01:23,336 - EmailDownloaderService - INFO - Downloading attachments for email ID: OK
+2024-08-27 12:06:52,569 - Main - INFO - Starting the application
+2024-08-27 12:06:52,570 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 12:06:52,570 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 12:06:52,571 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 12:06:52,571 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 12:06:54,578 - EmailDownloaderService - INFO - Procurando por emails não lidos
+2024-08-27 12:06:54,906 - EmailDownloaderService - INFO - Encontrados 3 emails não lidos
+2024-08-27 12:06:56,827 - EmailDownloaderService - INFO - Encontrados 3 emails com anexos XML
+2024-08-27 12:06:56,827 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'2'
+2024-08-27 12:06:57,205 - EmailDownloaderService - INFO - Baixado o arquivo 123.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\123.xml
+2024-08-27 12:06:57,209 - EmailDownloaderService - INFO - Moved 123.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\123\123.xml
+2024-08-27 12:06:57,209 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'4'
+2024-08-27 12:06:57,585 - EmailDownloaderService - INFO - Baixado o arquivo 456.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\456.xml
+2024-08-27 12:06:57,589 - EmailDownloaderService - INFO - Moved 456.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\456\456.xml
+2024-08-27 12:06:57,590 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'5'
+2024-08-27 12:06:57,955 - EmailDownloaderService - INFO - Baixado o arquivo XML.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\XML.xml
+2024-08-27 12:06:57,959 - EmailDownloaderService - INFO - Moved XML.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\03654119000176\XML.xml
+2024-08-27 12:06:57,959 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 12:09:57,961 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 12:10:00,982 - EmailDownloaderService - INFO - Procurando por emails não lidos
+2024-08-27 12:10:01,333 - EmailDownloaderService - INFO - Encontrados 2 emails não lidos
+2024-08-27 12:10:02,625 - EmailDownloaderService - INFO - Encontrados 2 emails com anexos XML
+2024-08-27 12:10:02,625 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'2'
+2024-08-27 12:10:03,023 - EmailDownloaderService - INFO - Baixado o arquivo 123.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\123.xml
+2024-08-27 12:10:03,030 - EmailDownloaderService - INFO - Moved 123.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\123\123.xml
+2024-08-27 12:10:03,031 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'4'
+2024-08-27 12:10:03,420 - EmailDownloaderService - INFO - Baixado o arquivo 456.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\456.xml
+2024-08-27 12:10:03,426 - EmailDownloaderService - INFO - Moved 456.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\456\456.xml
+2024-08-27 12:10:03,426 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 12:14:04,018 - Main - INFO - Starting the application
+2024-08-27 12:14:04,019 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 12:14:04,019 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 12:14:04,021 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 12:14:04,021 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 12:14:06,035 - EmailDownloaderService - INFO - Procurando por emails não lidos
+2024-08-27 12:14:06,379 - EmailDownloaderService - INFO - Encontrados 0 emails não lidos
+2024-08-27 12:14:06,379 - EmailDownloaderService - INFO - Encontrados 0 emails com anexos XML
+2024-08-27 12:14:06,380 - EmailDownloaderService - INFO - Sleeping for 3 minutes
+2024-08-27 12:14:15,741 - Main - INFO - Starting the application
+2024-08-27 12:14:15,742 - EmailDownloaderService - INFO - Initializing EmailDownloaderService
+2024-08-27 12:14:15,742 - EmailDownloaderService - INFO - Setting up directories
+2024-08-27 12:14:15,743 - EmailDownloaderService - INFO - Starting email download service
+2024-08-27 12:14:15,743 - EmailDownloaderService - INFO - Connecting to email server
+2024-08-27 12:14:17,662 - EmailDownloaderService - INFO - Procurando por emails não lidos
+2024-08-27 12:14:17,994 - EmailDownloaderService - INFO - Encontrados 2 emails não lidos
+2024-08-27 12:14:19,219 - EmailDownloaderService - INFO - Encontrados 2 emails com anexos XML
+2024-08-27 12:14:19,220 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'2'
+2024-08-27 12:14:19,583 - EmailDownloaderService - INFO - Baixado o arquivo 123_27-08-2024_12-14.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\123_27-08-2024_12-14.xml
+2024-08-27 12:14:19,586 - EmailDownloaderService - INFO - Moved 123_27-08-2024_12-14.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\123\123_27-08-2024_12-14.xml
+2024-08-27 12:14:19,586 - EmailDownloaderService - INFO - Baixando anexos para o email de id: b'4'
+2024-08-27 12:14:19,943 - EmailDownloaderService - INFO - Baixado o arquivo 456_27-08-2024_12-14.xml para C:\Users\demia\Documents\Portfolio\Pasta Raiz\XMLs Temporarios\456_27-08-2024_12-14.xml
+2024-08-27 12:14:19,946 - EmailDownloaderService - INFO - Moved 456_27-08-2024_12-14.xml to C:\Users\demia\Documents\Portfolio\Pasta Raiz\456\456_27-08-2024_12-14.xml
+2024-08-27 12:14:19,946 - EmailDownloaderService - INFO - Sleeping for 3 minutes
